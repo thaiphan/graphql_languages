@@ -1,0 +1,5 @@
+type Language {
+  id: String
+  name: String
+  direction: String
+}

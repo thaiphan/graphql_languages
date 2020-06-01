@@ -1,0 +1,12 @@
+{
+  "name": "thaiphan/graphql_languages",
+  "type": "drupal-module",
+  "description": "Extend the Drupal 8 GraphQL module to support querying languages",
+  "homepage": "https://github.com/thaiphan/graphql_languages",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.2",
+    "drupal/graphql": "4.x-dev"
+  },
+  "minimum-stability": "dev"
+}
